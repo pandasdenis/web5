@@ -13,7 +13,7 @@ function onClick1() {
     let r = document.getElementById("result");
     r.innerHTML = "";
     f1[0].value = "";
-    f1[0].valuee = "";
+    f2[0].valuee = "";
     return false;
       
   }
