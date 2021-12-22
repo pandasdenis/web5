@@ -13,6 +13,7 @@ function onClick1() {
     let r = document.getElementById("result");
     r.innerHTML = "";
     f1.value = "";
-    f2.value = "";
+    f2.value = "";alert("MPX");
     return false;
+      
   }
