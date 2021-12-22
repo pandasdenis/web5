@@ -12,9 +12,8 @@ function onClick1() {
     let f2 = document.getElementsByName("field2");
     let r = document.getElementById("result");
     r.innerHTML = "";
-    f1.value = "";
-    f2.value = "";
-    alert("MPX");
+    f1[0].value = "";
+    f1[0].valuee = "";
     return false;
       
   }
