@@ -11,8 +11,8 @@ function onClick1() {
     let f1 = document.getElementsByName("field1");
     let f2 = document.getElementsByName("field2");
     let r = document.getElementById("result");
-    r.innerHTML = None;
-    f1.innerHTML = None;
-    f2.innerHTML = None;
+    r.innerHTML = "";
+    f1.innerHTML = "";
+    f2.innerHTML = "";
     return false;
   }
